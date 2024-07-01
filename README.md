@@ -47,7 +47,7 @@ To compile and run the project, follow these steps:
     ```
 2. **Navigate to the project directory:**
     ```
-    cd Advanced-Programming-Project
+    cd Cards-and-Players
     ```
 3. **Compile the project:**
     ```
